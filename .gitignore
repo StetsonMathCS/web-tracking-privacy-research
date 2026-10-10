@@ -1,0 +1,20 @@
+#python virtual enviroment
+.ven/
+ven/
+__pychache__/
+*.pyc
+
+#Sensitive Configuration
+.env
+.env.*
+*.key
+*.pem
+
+#Browser profiles and databases
+chrome_profile/
+broswer_profile/
+*.sqlite
+
+#temporary files
+*.log
+
