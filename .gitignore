@@ -18,3 +18,4 @@ broswer_profile/
 #temporary files
 *.log
 
+.idea/

@@ -1,0 +1,9 @@
+Website,Cookie Name,Secure,HttpOnly,SameSite
+https://nytimes.com,nyt-traceid,True,False,None
+https://nytimes.com,nyt-s-present,False,False,Lax
+https://nytimes.com,nyt-a,True,False,None
+https://nytimes.com,nyt-gdpr,False,False,Lax
+https://nytimes.com,datadome,True,False,Lax
+https://nytimes.com,nyt-geo,False,False,Lax
+https://nytimes.com,nyt.et.dd,True,False,None
+https://nytimes.com,nyt-purr,True,False,Lax
