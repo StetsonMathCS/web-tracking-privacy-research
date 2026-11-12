@@ -1,3 +1,5 @@
+
+"""
 import csv
 from pathlib import Path
 import time
@@ -74,3 +76,5 @@ try:
 finally:
     #browser closes cleanly at the very end
     driver.quit()
+
+"""
